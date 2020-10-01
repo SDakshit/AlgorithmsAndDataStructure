@@ -23,6 +23,7 @@ Data structures & Algorithms are an essential part of programming. It comes unde
 ## Data Structure
 
 In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification.
+Data structure is a way or a format how your data is stored in memory for effecient usage and retrieval.
 
 ## Algorithms
 
@@ -45,7 +46,7 @@ Check [Contribution](/CONTRIBUTING.md) Guide Before Contribution.
 |----------------	|----------------	|-----------------	|--------------------	|
 | Linked List    	| Yes            	| Yes             	| Being improved #23 	|
 | Sets           	| Yes            	| Yes             	| Implemented        	|
-| Stack          	| No             	| In progress #13 	|                    	|
+| Stack          	| Yes            	| In progress #13 	|                    	|
 | Queue          	| In progress #7 	| In progress #12 	|                    	|
 
 
